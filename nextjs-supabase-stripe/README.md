@@ -101,7 +101,7 @@ If your products do not appear in your Supabase database for test products, adju
 To learn more about XRL, explore the following resources:
 
 - [XRL Website](https://xrl.au/): Learn more about XRL, our goals, and our values.
-- [Rubix Studios](https://www.rubixstudios.com.au): Discover more about Rubix Studios, the company behind XRL and its innovative technologies.
+- [Rubix Studios](https://rubixstudios.com.au): Discover more about Rubix Studios, the company behind XRL and its innovative technologies.
 
 ## Join the Community
 
