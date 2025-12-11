@@ -15,7 +15,7 @@
     "@radix-ui/react-slot": "^1.1.0",
     "@radix-ui/react-toast": "^1.2.1",
     "@stripe/stripe-js": "^4.2.0",
-    "@supabase/ssr": "^0.5.1",
+    "@supabase/ssr": "^0.5.2",
     "@supabase/supabase-js": "^2.45.1",
     "class-variance-authority": "^0.7.0",
     "classnames": "^2.5.1",
